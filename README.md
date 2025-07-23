@@ -24,7 +24,7 @@ npm run dev
 Or with yarn:
 yarn dev
 
-The app will be available at http://localhost:5173 (or another port if specified) in your browser.
+
 
 Features
 Add, edit, and delete tasks.
